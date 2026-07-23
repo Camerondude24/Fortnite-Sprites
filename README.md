@@ -1,2 +1,2 @@
 # Game-Stuff
-Game stuff for my custom personal app.
+Game stuff for my personal stuff.
